@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.eliezerantonio.miscellaneous",
+    "sha256_cert_fingerprints":
+    ["FE:35:BC:2B:65:87:F9:C0:AE:A7:36:09:47:2A:5E:52:27:D0:9B:D5:DC:CF:99:54:93:96:72:6A:9A:4E:B2:3B"]
+  }
+}]
